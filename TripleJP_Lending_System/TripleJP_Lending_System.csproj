@@ -53,10 +53,10 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>57A38FC116FCB7D33C75E76FB5D7253865F0CB21</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>A782FF62E51AAC317DE3CA846F796B5F513E7D3A</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>TripleJP_Lending_System_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>TripleJP_Lending_System_1_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <GenerateManifests>true</GenerateManifests>
@@ -380,7 +380,7 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <None Include="TripleJP_Lending_System_TemporaryKey.pfx" />
+    <None Include="TripleJP_Lending_System_1_TemporaryKey.pfx" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
