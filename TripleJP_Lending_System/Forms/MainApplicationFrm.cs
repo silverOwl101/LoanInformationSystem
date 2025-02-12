@@ -48,8 +48,7 @@ namespace TripleJP_Lending_System.Forms
             Hide();
             _concreteMediator = new ClassComponentConcreteMediator();
             _logInFrmComponent = new LogInFrmComponent(_concreteMediator);
-            _concreteMediator.OpenForms(_logInFrmComponent, true);
-            Close();
+            _concreteMediator.OpenForms(_logInFrmComponent, true);            
         }
 
         #endregion
