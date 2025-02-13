@@ -1,0 +1,10 @@
+C:\Exxxcube files\Projects\C#\Final\LoanInformationSystem\TripleJPLendingSystemAdministrator\bin\Debug\LoanInformationSystemAdministrator.exe.config
+C:\Exxxcube files\Projects\C#\Final\LoanInformationSystem\TripleJPLendingSystemAdministrator\bin\Debug\LoanInformationSystemAdministrator.exe
+C:\Exxxcube files\Projects\C#\Final\LoanInformationSystem\TripleJPLendingSystemAdministrator\bin\Debug\LoanInformationSystemAdministrator.pdb
+C:\Exxxcube files\Projects\C#\Final\LoanInformationSystem\TripleJPLendingSystemAdministrator\obj\Debug\LoanInformationSystemAdministrator.csproj.AssemblyReference.cache
+C:\Exxxcube files\Projects\C#\Final\LoanInformationSystem\TripleJPLendingSystemAdministrator\obj\Debug\LoanInformationSystemAdministrator.Forms.LogInFrm.resources
+C:\Exxxcube files\Projects\C#\Final\LoanInformationSystem\TripleJPLendingSystemAdministrator\obj\Debug\LoanInformationSystemAdministrator.Properties.Resources.resources
+C:\Exxxcube files\Projects\C#\Final\LoanInformationSystem\TripleJPLendingSystemAdministrator\obj\Debug\LoanInformationSystemAdministrator.csproj.GenerateResource.cache
+C:\Exxxcube files\Projects\C#\Final\LoanInformationSystem\TripleJPLendingSystemAdministrator\obj\Debug\LoanInformationSystemAdministrator.csproj.CoreCompileInputs.cache
+C:\Exxxcube files\Projects\C#\Final\LoanInformationSystem\TripleJPLendingSystemAdministrator\obj\Debug\LoanInformationSystemAdministrator.exe
+C:\Exxxcube files\Projects\C#\Final\LoanInformationSystem\TripleJPLendingSystemAdministrator\obj\Debug\LoanInformationSystemAdministrator.pdb
